@@ -1,0 +1,26 @@
+{
+  "name": "aliyun-sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/87Hz/aliyun-sms.git"
+  },
+  "keywords": [],
+  "author": "87Hz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/87Hz/aliyun-sms/issues"
+  },
+  "homepage": "https://github.com/87Hz/aliyun-sms#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.1.1"
+  }
+}
