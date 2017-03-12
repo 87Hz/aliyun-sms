@@ -1,7 +1,7 @@
 {
   "name": "node-aliyun-sms",
   "version": "1.0.0",
-  "description": "",
+  "description": "阿里云短信服务 Aliyun SMS Service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/87Hz/aliyun-sms.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Aliyun SMS",
+    "阿里云SMS",
+    "阿里云短信",
+    "阿里云短信服务"
+  ],
   "author": "87Hz",
   "license": "ISC",
   "bugs": {
